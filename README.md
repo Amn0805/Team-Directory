@@ -8,7 +8,7 @@ A React application built with Vite that renders a dynamic grid of team member p
 
 ## 🎥 Project Demo
 
-🔗 [Watch the project demo here](https://youtu.be/your-video-link)
+🔗 [Watch the project demo here](https://youtu.be/HZTTpOrZtLk)
 
 
 ## Preview
