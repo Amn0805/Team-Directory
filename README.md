@@ -4,7 +4,12 @@ A React application built with Vite that renders a dynamic grid of team member p
 
 ## Live Demo
 
-🔗 [View live app](your-vercel-url-here)
+🔗 [View live app](https://team-directory-jade.vercel.app/)
+
+## 🎥 Project Demo
+
+🔗 [Watch the project demo here](https://youtu.be/your-video-link)
+
 
 ## Preview
 
